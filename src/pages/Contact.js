@@ -19,7 +19,7 @@ const Contact = () => {
       style={{
         width: '100%',
         height: '100vh',
-        backgroundImage: 'url("/images/bg-contact.jpg")',
+        backgroundImage: 'url("/bg-contact.jpg")',
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         backgroundRepeat: 'no-repeat',

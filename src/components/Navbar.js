@@ -18,7 +18,7 @@ const NavigationBar = () => {
       <Container>
         <Navbar.Brand as={NavLink} to="/" className="d-flex align-items-center fw-bold">
           <img
-            src="/images/logo.jpeg"
+            src="/logo.jpeg"
             alt="Logo"
             height="40"
             className="me-2 rounded-circle"
